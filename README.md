@@ -1,5 +1,16 @@
-### Hi there 👋
+## Aloha 🌴
 
+I'm Cyklan, a software engineer from Germany.
+
+### Current Project
+
+[The Short Bible](https://github.com/Cyklan/The-Short-Bible), a version of the bible **without** the annoying credits roll every few pages
+
+### Other tidbits
+
+- ✌ Pronouns: He/Him|She/Her
+- 💌 How to reach me: [E-Mail](mailto://nils@fahle.dev)
+- ⚙ My Oh-My-Posh Config: [Gist](https://gist.github.com/Cyklan/8542ff643a6bd7f384882818f4d39b1e)
 <!--
 **Cyklan/Cyklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
