@@ -4,7 +4,7 @@ I'm Cyklan, a software engineer from Germany.
 
 ### Current Project
 
-[Minecraft Playtime](https://github.com/Cyklan/MCPlaytime), a Minecraft Mod that puts a timer on your HUD
+[AU Online](https://github.com/Cyklan/arcane-ugly), a cloud based platform to play the TTRPG Arcane Ugly
 
 ### Other tidbits
 
