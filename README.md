@@ -4,7 +4,7 @@ I'm Cyklan, a software engineer from Germany.
 
 ### Current Project
 
-[AU Online](https://github.com/Cyklan/arcane-ugly), a cloud based platform to play the TTRPG Arcane Ugly
+[MyTube](https://github.com/Cyklan/MyTube) - YouTube, but it's mine :)
 
 ### Other tidbits
 
