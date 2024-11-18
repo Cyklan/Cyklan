@@ -4,7 +4,7 @@ I'm Cyklan, a software engineer from Germany.
 
 ### Current Project
 
-Songrequest Studio - a widget for streamers to show what music is currently playing.
+Photosynthesis - a go cli representation and bot for the board game photosynthesis
 
 ### Other tidbits
 
