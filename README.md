@@ -2,9 +2,10 @@
 
 I'm Cyklan, a software engineer from Germany.
 
-### Current Project
+### I'm learning Rust right now!
 
-Photosynthesis - a go cli representation and bot for the board game photosynthesis
+- [Server-Sent Events Test Client](https://github.com/Cyklan/SSE) -> A frontend that receives server-sent events and a test-server that sends server-sent events
+- [searchthing](https://github.com/Cyklan/searchthing) -> Duckduckgo's bangs but rusty
 
 ### Other tidbits
 
